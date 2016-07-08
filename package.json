@@ -1,15 +1,15 @@
 {
   "name": "metalheart-atom",
   "theme": "syntax",
-  "version": "0.0.0",
-    "description": "A low contrast atom syntax theme with a dark blue-green background",
-    "keywords": [
-        "syntax",
-        "theme"
-    ],
-    "repository": "https://github.com/mswift42/metalheart-atom",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "version": "0.1.0",
+  "description": "A low contrast atom syntax theme with a dark blue-green background",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mswift42/metalheart-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
